@@ -12,3 +12,16 @@ Grupo:Jose Luis Sánchez Sánchez,Gonzalo García Illán,José Martínez León
 5.Diagrama de actividad-casos de uso 2:
 6.Diagrama de actividad-casos de uso 3:
 
+1. Introducción
+  Este documento presenta el análisis del juego "Star Battle". El juego se desarrollará con una versión web y una versión móvil, permitiendo a los juagdores jugar con un solo dispositivo, contra una IA o contra otros contendientes a través de Internet.
+El juego enfrenta a la Flota Estelar y el Imperio Klingon, con usuarios registrados que pueden elegir su afiliación y usuarios invtiados que solo pueden ser parte del Imperio Klingon.
+Cada contendiente controla una flota de naves espaciales equipadas con dos tipos de cañones (láser y plasma) y debe disparar estratégicamnete para derrotar al enemigo.
+
+2. SRS
+   2.1 Requisitos funcionales.
+- Los usuarios deben elegir uno de los dos contendientes (Flota Estelar o Imperio Klingon) al registrarse.
+- Cada nave espacial debe tener una ubicación (coordenadas x,y).
+- Debe de dar a elegir a los usuarios un nivel de dificultad.
+- Los jugadores pueden disparar seleccionando nave y arma.
+- Armas con opción de doble arma y doble daño al enemigo, pero requieren el doble de munición.
+- Cada arma tiene una cantidad fija de munición que se actualiza con cada disparo
