@@ -29,5 +29,12 @@ Cada contendiente controla una flota de naves espaciales equipadas con dos tipos
 - El juego sigue hasta que la Flota Estelar se rinda o hasta que una flota sea destruida.
 
   2.2 Requisitos no funcionales. 
+
 - Se necesita un alojamiento web con un gran ancho de banda ya que queremos que los juegos a traves de internet se desarrollen sin problemas. 
 - Se utilizara una bade de datos Oracle para almacenar usuarios y juegos, siguiendo siempre la normativa de proteccion de datos. 
+
+2.3	Requisitos del sistema 
+
+•	Tendrá una versión web y también una versión móvil, por lo que necesitaremos el tipo de tecnología que nos permita esta versatilidad.
+•	Sistema de ranking para los mejores jugadores.
+•	El ganador tendrá puntos añadidos a su perfil que podrá canjear por munición en otros juegos.
