@@ -28,7 +28,7 @@ Cada contendiente controla una flota de naves espaciales equipadas con dos tipos
 - Cada nave tendrá un escudo que le permitirá absorber una serie de impactos antes de ser destruida. Si esta no sufre daño durante 10 turnos se reparará por completo.
 - El juego sigue hasta que la Flota Estelar se rinda o hasta que una flota sea destruida.
 
-  2.2 Requisitos no funcionales. 
+2.2 Requisitos no funcionales. 
 
 - Se necesita un alojamiento web con un gran ancho de banda ya que queremos que los juegos a traves de internet se desarrollen sin problemas. 
 - Se utilizara una bade de datos Oracle para almacenar usuarios y juegos, siguiendo siempre la normativa de proteccion de datos. 
